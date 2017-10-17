@@ -1,0 +1,29 @@
+{
+  "name": "angular-pdf-thumbnail",
+  "homepage": "https://github.com/diegoRodriguezAguila/angular-pdf-thumbnail",
+  "authors": [
+    "Jim Drygiannakis",
+    "Diego Rodriguez"
+  ],
+  "description": "AngularJS pdf thumbnails",
+  "main": "./js/angular-pdf-thumbnail.js",
+  "keywords": [
+    "angularjs",
+    "pdf",
+    "thumbnail",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5",
+    "angular-route": "~1.5",
+    "pdfjs-dist": "^1.9.646"
+  }
+}
